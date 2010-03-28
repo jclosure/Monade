@@ -1,0 +1,29 @@
+Monade
+
+An expert system in Python with an implementation in Plone content types
+supporting Perspectivism through faceted ontology.
+
+The basic idea is that rules and facts can both be tested as a question
+against a context, and each question can decide on its own how to use the
+(possibly redundant and/or contradictory) facts and rules it finds.
+
+Origin of the name Monade:
+
+The concept of Monad developed in G. Leibniz Monadology seems to imply a
+sort of perspectivism. Monads are the irreducible substances of which all
+composite substances are made. I heard them explained first as a concept
+which works roughly like cellular automata by Dr. John Kenny at Bradley in
+1993. I only just discovered some of his writing archived at UIUC, which
+probably covers some of that. It was in this context that I approached
+Monadology.
+
+https://netfiles.uiuc.edu/mjrAeilly/www/chaosmos.html
+
+I also like the music of Stereolab, and somewhat that of Latitia Sadier's
+side project Monade, named apparently for a hypothetical psychological
+mode of infants prior to differentiation of ego/superego/id. Though I 
+don't know anything about Cornelius Castoriadis’s "Psychic Monad," the
+idea seems like a muddled western approach to Zen. Zen is a mode of pure
+phenomenology, and is thus dominated by existential perspective.
+
+There's more.. but it's of little consequence yet.
