@@ -64,6 +64,7 @@ class case(set):
 	@property
 	def terms(self):
 		"""
+		returns a list of the terms in the formula
 		"""
 		return self.__terms__
 	
